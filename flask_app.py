@@ -6,6 +6,7 @@ from requests_oauthlib.compliance_fixes import facebook_compliance_fix
 
 # Your ngrok url, obtained after running "ngrok http 5000"
 URL = "https://hydar.pythonanywhere.com"
+URL2 = "https://hydar.pythonanywhere.com"
 
 FB_CLIENT_ID = "335582323665126"
 FB_CLIENT_SECRET = "cc037fefcf9feef35a015f1767345f21"
